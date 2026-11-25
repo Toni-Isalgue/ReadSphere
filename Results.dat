@@ -1,0 +1,23 @@
+Data in Dataexample.dat 
+ 
+No. elements, lineal average, lineal stdev: 7356876 1 31.081 30.498 
+ 
+Data cos-weighted and rad-weighted A1 
+ 
+Number of useful points 1-2, average cos, stdesv, 3711836, 3645040, 34.698, 26.820 
+promecos_2, averageradcos, averageradcos2, averageradcossin 1-2 39.078, 20.801, 38.041, 6.394, 59.596 
+ 
+ 
+Spatial contrast (in units of deltacontiguous divided by number, and by Tmax-Tmin) 0.108318 0.000903 
+ 
+ 
+Case 15 h Revolucion 07072026 size m*n 01841 04035 
+ 
+Spherical Harmonics Ylm (complex values) for l=1, m=-1, 0, 1 : 3.361285 -2.329060 -84.485255 0.000000 -3.361285 -2.329060 
+ 
+ 
+Preferred direction of temperature according to first Spherical Harmonics 
+ 
+Direction in xyz (vector), theta, fi (rad): 0.056134 -0.038896 -0.997665  3.073247 5.677235 
+ 
+Direction in theta, fi in º: 176.084084 325.281614 
